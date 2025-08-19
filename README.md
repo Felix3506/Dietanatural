@@ -1,19 +1,4 @@
 
-    .testimonial-card {
-      transition: transform 0.3s ease;
-    }
-    .testimonial-card:hover {
-      transform: translateY(-5px);
-    }
-    .guarantee-badge {
-      animation: pulse 2s infinite;
-    }
-    @keyframes pulse {
-      0% { transform: scale(1); }
-      50% { transform: scale(1.05); }
-      100% { transform: scale(1); }
-    }
-  </style>
 </head>
 <body class="bg-gray-50 text-gray-800 font-sans">
 
