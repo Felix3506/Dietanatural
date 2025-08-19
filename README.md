@@ -1,8 +1,4 @@
 
-  <title>Página de Vendas - E-book Emagrecimento Natural</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-  <style>
     .testimonial-card {
       transition: transform 0.3s ease;
     }
